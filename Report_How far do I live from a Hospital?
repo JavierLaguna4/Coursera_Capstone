@@ -1,0 +1,10 @@
+•	In a city as large as Mexico City with 1,485 km² and a population of close to 10 million inhabitants and in the surrounding area reaching 21 million, which makes transportation routes, both roads and public transportation, complicated. In these days where it is important to know where there are hospitals or doctors who can provide us with support in emergency situations, it is vital to know where they are located and if we have a chronic disease, perhaps where it is better to live when choosing residence.
+
+•	Foursquare data will be used to locate hospitals around Mexico City and then group them by proximity and in turn mention where we should live if we need more health care options.
+
+•	The data were put on a map of Mexico City for easy visualization of these, and thus see where it is accumulated, later the K-Means algorithm was used to obtain the grouping of the data.
+
+
+•	It can be seen that the data are grouped into 5 groups that we will define as: Northeast in blue (18), Center in red (48), Southwest in Orange (15), South in Purple (15) and Northwest in green (4).
+
+•	Thus we can determine that the Northeast area is not a good area to live if we want to have hospitals nearby, and even though the downtown area of the City is the most populated, it is the one with up to 3 times more hospitals. Of course, this analysis is a quick analysis and we only want to determine where there are more hospitals, as next steps we could measure distances and if there are fast routes between a chosen point and the hospitals so we will not only be close to many, but we will have the opportunity to get there faster. is that we need it.
